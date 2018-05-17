@@ -1,0 +1,103 @@
+TZB	是/vshi
+TZB	有/vyou
+TZB	属于/v
+TZB	程序/n 
+TZB	条件/n 
+TZB	申请/v 
+TZB	流程/n 
+TZB	评估/vn 
+TZB	评估/vn 结果/n 
+TZB	认定/v 
+TZB	区分/v 
+TZB	建设/vn 过程/n 
+TZB	监督/vn
+TZB	实质/n 
+TZB	通过/p 认定/v 和/cc 评估/vn 后/f
+TZB	内容/n 
+TZB	优惠/vn 
+TZB	优惠政策/nz 
+TZB	扶持/v 政策/n 
+TZB	企业/n 
+TZB	享受/v 
+TZB	才能/n
+TZB	分工协作/n 
+TZB	项目/n
+TZB	需要/v 进行/vn 
+TZB	需要/v 提供/v 
+TZB	材料/n
+TZB	需要/v 注意/v
+TZB	事项/n 
+TZB	可以/v 享受/v 
+TZB	才能/n 享受/v
+TZB	申报/vn
+TZB	视为/v 
+TZB	人/n 员/ng
+TZB	包括/v
+TZB	要求/n 
+TZB	考核/vn 标准/n 
+TZB	评分/vn 指标/n 
+TZB	设置/v 
+TZB	年检/n 
+TZB	名称/n 变更/v 
+TZB	政策/n
+TZB	有效期/n 截止/vi 后/f 
+TZB	网址/n 
+TZB	办理/v 
+TZB	复审/vn 
+TZB	复核/vn 
+TZB	扶持/v 措施/n 
+TZB	辅导/vn 咨询/vn 
+TZB	找/v 
+TZB	部门/n
+TZB	通过/p 国家级/b 高新技术企业/nz 
+YWB	什么/ry
+YWB	哪些/ry
+YWB	是不是/v
+YWB	是否/v
+YWB	能否/v 
+YWB	如何/ryv 
+YWB	怎样/ryv 
+YWB	怎么做/nz
+YWB	怎么/ryv 
+YWB	还是/c
+YWB	多少/ry 
+YWB	多少/ry 个/q
+YWB	多久/ryt
+YWB	怎么走/nz
+YWB	怎么样/ryv 
+YWB	怎么办/ryv 
+YWB	为什么/ryv
+YWB	哪里/rys 
+YWB	哪个/ry
+YWB	啥时候/r
+YWB	几/d 年/qt
+ZTB	工程技术研究中心/nz
+ZTB	工程中心/nit 
+ZTB	市级/b 工程中心/nit 
+ZTB	厦门市/ns 工程技术研究中心管理办法/nz 的/ude1 制定/v 背景/n
+ZTB	高新技术企业/nz 认定/v 条件/n
+ZTB	核心/n 自主知识产权/nz 
+ZTB	科技人员占比/nz 
+ZTB	高新技术企业/nz 的/ude1 研发费用/nz 
+ZTB	主要产品/nz 服务/vn 
+ZTB	高企/nr 认定/v 的/ude1 评分/vn 指标/n
+ZTB	市级/b 高企/nr
+ZTB	市级/b 高新技术企业/nz
+ZTB	高新技术企业/nz
+ZTB	国家级/b 高新技术企业/nz
+ZTB	市级/b 高企/nr 备案/vi
+ZTB	加计扣除政策/nz 
+ZTB	研发费用税前加计扣除/nz
+FWB	研发/v 过程/n 中/f
+FWB	市里/n
+FWB	我市/r 
+FWB	目前/t
+FWB	高企/nr 认定/v 中/f 
+FWB	国家/n 重点/n 支持/v 的/ude1 
+FWB	继续/v 
+FWB	的/ude1
+FWB	在/p
+FWB	要/v 
+FWB	备案/vi 为/p 
+FWB	备案/vi 成为/v 
+FWB	具体/a 
